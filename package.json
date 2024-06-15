@@ -1,8 +1,11 @@
 {
   "name": "oxocarbon-5",
+  "icon": "img/icon.png",
   "displayName": "oxocarbon-5",
   "description": "5th oxocarbon theme port for VSCode.",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "yrumad",
+  "repository": "https://github.com/DaKili/oxocarbon-5",
   "engines": {
     "vscode": "^1.90.0"
   },
