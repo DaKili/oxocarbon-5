@@ -3,7 +3,7 @@
   "icon": "img/icon.png",
   "displayName": "oxocarbon-5",
   "description": "5th oxocarbon theme port for VSCode.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "yrumad",
   "repository": "https://github.com/DaKili/oxocarbon-5",
   "engines": {

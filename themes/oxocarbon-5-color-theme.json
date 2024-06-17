@@ -788,6 +788,11 @@
 		//"window.activeBorder": null,
 		//"window.inactiveBorder": null
 	},
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"namespace": "#08bdba",
+		"type": "#ff7eb6"
+	},
 	"tokenColors": [
 		{
 			"scope": [
