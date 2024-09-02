@@ -15,6 +15,10 @@
     "light theme",
     "port"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaKili/oxocarbon-5"
+  },
   "contributes": {
     "themes": [
       {
