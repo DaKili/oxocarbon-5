@@ -1,8 +1,9 @@
 {
   "name": "oxocarbon-5",
+  "icon": "img/icon.png",
   "displayName": "oxocarbon-5",
   "description": "oxocarbon port for vscode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "yrumad",
   "engines": {
     "vscode": "^1.92.0"
