@@ -1,23 +1,31 @@
 {
   "name": "oxocarbon-5",
-  "icon": "img/icon.png",
   "displayName": "oxocarbon-5",
-  "description": "5th oxocarbon theme port for VSCode.",
-  "version": "0.0.3",
-  "publisher": "yrumad",
-  "repository": "https://github.com/DaKili/oxocarbon-5",
+  "description": "oxocarbon port for vscode",
+  "version": "0.1.0",
   "engines": {
-    "vscode": "^1.90.0"
+    "vscode": "^1.92.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "light theme",
+    "port"
   ],
   "contributes": {
     "themes": [
       {
         "label": "oxocarbon-5",
         "uiTheme": "vs-dark",
-        "path": "./themes/oxocarbon-5-color-theme.json"
+        "path": "./themes/oxocarbon-5-dark.json"
+      },
+      {
+        "label": "oxocarbon-5 light",
+        "uiTheme": "vs",
+        "path": "./themes/oxocarbon-5-light.json"
       }
     ]
   }
