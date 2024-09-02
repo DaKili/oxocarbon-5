@@ -3,6 +3,7 @@
   "displayName": "oxocarbon-5",
   "description": "oxocarbon port for vscode",
   "version": "0.1.0",
+  "publisher": "yrumad",
   "engines": {
     "vscode": "^1.92.0"
   },
