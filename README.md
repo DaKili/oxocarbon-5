@@ -1,5 +1,7 @@
 # oxocarbon-5
 
+This repo is kind of unmaintained, use [nyoom-engineering/oxocarbon-vscode](https://github.com/nyoom-engineering/oxocarbon-vscode) instead. It's way smoother.
+
 This is the 5th attempt at porting of the [oxocarbon](https://github.com/nyoom-engineering/oxocarbon.nvim/tree/main) theme from nyoom to VSCode. I kept the light theme as close to the original as possible.
 
 ## Showcase
